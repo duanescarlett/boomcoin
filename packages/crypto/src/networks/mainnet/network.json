@@ -1,18 +1,18 @@
 {
-    "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
-    "slip44": 111,
-    "aip20": 0,
-    "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
-    }
+  "name": "mainnet",
+  "messagePrefix": "BOM message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 25,
+  "nethash": "d6d71e85c156fcf14bef8e446191b0a30dd1abb1faeeed06077fa38021209953",
+  "wif": 152,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "BOM",
+    "symbol": "^",
+    "explorer": "http://0.0.0.0:4200"
+  }
 }
